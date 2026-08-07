@@ -1,0 +1,6 @@
+-xml doc.xml 
+-D doc-gen
+--main Main
+--dce no
+--interp
+--library hxbrainfuck
