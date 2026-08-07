@@ -1,11 +1,11 @@
 {
   "name": "hxBrainfuck",
   "description": "A Brainfuck interpreter written in Haxe. Lightweight, easy to use, and extensible.",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "url": "https://github.com/Brain0789/hxBrainfuck",
   "license": "MIT",
   "tags": ["brainfuck", "interpreter", "esolang", "vm"],
-  "releasenote": "Initial release. Supports full Brainfuck spec, including loops and cell wrapping.",
+  "releasenote": "Complete rework of interpreter.",
   "contributors": ["Brainy7890"],
   "classPath": "src"
 }
