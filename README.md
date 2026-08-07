@@ -4,4 +4,4 @@ A Brainfuck interpreter written in Haxe. Lightweight, easy to use, and extensibl
 
 ## Usage
 
-Read the docs for more info.
+Read the [docs](https://github.com/KaiTheHaxeCoder/hxBrainfuck/blob/main/docs/Docs.md) for more info.
